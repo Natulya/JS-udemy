@@ -17,9 +17,26 @@
 //console.log(typeof(null));
 
 //const category = 'Toys';
-
 //console.log(`https://someurl.com/${category}/5`);
 
-const user = 'Nat';
+//const user = 'Nat';
+//alert(`Привет, ${user}`);
 
-alert(`Привет, ${user}`);
+// let incr = 10,
+//     decr = 10;
+
+// ++incr;
+// --decr;
+
+// console.log(incr);
+// console.log(decr);
+
+// const isChecked = false,
+//       isClose = false;
+
+// console.log(isChecked || !isClose);      
+
+console.log(2 + 2 * 2 !== '6');
+
+let = 13;
+
